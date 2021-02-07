@@ -1,0 +1,147 @@
+/* RESET */
+* {
+  margin: 0;
+}
+
+/* HEADER */
+header {
+  background-color: #E14040;
+  background-image: url('img/pattern.png');
+  background-size: auto;
+  text-align: center;
+}
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.logo {
+  height: 80px;
+  padding: 30px;
+  margin-top: 10px;
+}
+
+/* MAIN */
+
+h1 {
+  margin-top: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.author {
+  font-size: 15px;
+  padding-left: 50px;
+}
+
+.authorcolor {
+  color: #E14040;
+}
+
+.date {
+  padding-left: 680px;
+}
+
+/* TIM'S PICTURES */
+
+.firstpicture {
+  width: 500px;
+  height: 390px;
+}
+
+.secondpicture {
+  width: 500px;
+  height: auto;
+}
+
+.firstpicture, .secondpicture {
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+.text1 {
+  font-size: 12px;
+}
+
+.text2 {
+  font-size: 12px;
+  padding-left: 180px;
+}
+
+/* FIRST PARAGRAPH */
+.firstparagraph {
+  margin-top: 40px;
+}
+
+.highlight {
+  color: #E14040;
+}
+
+/* LIST */
+
+.list {
+  padding-left: 20px;
+  margin-top: 40px;
+}
+
+li {
+  margin-top: 5px;
+}
+
+/* TABLE */
+
+table {
+  margin-top: 40px;
+}
+
+thead {
+  background-color: #E14040;
+}
+
+.lastcolumn {
+  width: 50%;
+  }
+
+.midcell {
+  background-color: #F7C1C1;
+}
+
+/* SECOND PARAGRAPH */
+
+.secondparagraph {
+  margin-top: 40px;
+}
+
+/* FOOTER */
+
+h4 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+.pictures {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.monitor, .graph {
+  width: 300px;
+  height: 250px;
+  display: inline-block;
+  color: white;
+  border-radius: 10px;
+}
+
+.monitor {
+  background-image: url('img/monitor.jpg');
+}
+
+.graph {
+  background-image: url('img/graph.jpg')
+}
+
+.imagetext {
+  margin-top: 20px;
+  font-size: 30px;
+}
